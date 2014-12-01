@@ -1,0 +1,67 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\000039}}
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\0000314}}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+p {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\0000320}}
+a {
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\0000324}}
+.banner {
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\0000329}}
+.banner img {
+  max-width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\0000333}}
+.ui-block-a,
+.ui-block-b,
+.ui-block-c {
+  margin: 0 0 10px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\0000336}}
+.ui-block-a img,
+.ui-block-b img,
+.ui-block-c img {
+  max-width: 100%;
+  margin: 10px 0 0 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\0000340}}
+.ui-block-a ul,
+.ui-block-b ul,
+.ui-block-c ul {
+  border-right: 1px solid #7c7c7c;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\0000345}}
+.ui-block-c ul {
+  border-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/my_demo\/jquery\/mobile项目\/手机商城\/style\/base\.less}line{font-family:\0000348}}
+.ui-block-a ul li:nth-of-type(2),
+.ui-block-b ul li:nth-of-type(2),
+.ui-block-c ul li:nth-of-type(2) {
+  font-family: "微软雅黑";
+  color: #626262;
+  padding: 10px 0;
+}
