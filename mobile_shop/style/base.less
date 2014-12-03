@@ -6,6 +6,7 @@
 @pro_padding: 10px 0;
 @pro_margin:0 0 10px 0;
 @pro_img_margin:10px 0 0 0;
+@base_margin:0;
 body{
 	margin:0;
 	padding: 0;
@@ -50,5 +51,21 @@ a{
 	color: @FontColor_pro;
 	padding:@pro_padding; 
 }
-/*我添加了一句话*/
-/*又添加一句话*/
+.clean_margin li:nth-of-type(n){
+	margin:@base_margin;
+}
+.list_view img{
+	width: 79px;
+	height: 79px;
+	box-shadow: 1px 1px 2px #ececec;
+	margin-left:5px;
+}
+.list_view p.description{
+	font-family: @FontFamily;		
+}
+.list_view p.description span{
+	margin: 0 15px 0 0;
+}
+.list_view p.description strong{
+	color: red;
+}
